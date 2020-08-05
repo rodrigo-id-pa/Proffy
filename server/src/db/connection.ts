@@ -9,7 +9,3 @@ const db = knex({
 });
 
 export default db;
-
-//migrations: controlam a versao do banco de dados
-
-

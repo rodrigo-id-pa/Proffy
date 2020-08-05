@@ -9,7 +9,7 @@ import studyIcon from "../../assets/images/icons/study.svg";
 import giveClassesIcon from "../../assets/images/icons/give-classes.svg";
 import purpleHeartIcon from "../../assets/images/icons/purple-heart.svg";
 
-export default function Landing() {
+function Landing() {
   return (
     <div id="page-landing">
       <div className="container" id="page-landing-content">
@@ -43,3 +43,5 @@ export default function Landing() {
     </div>
   );
 }
+
+export default Landing;
