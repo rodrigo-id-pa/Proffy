@@ -21,8 +21,8 @@
 
 
 ## Mobile
-<a href="https://www.figma.com/file/bjlPK1ihBfkYaFMjENPFuH/Proffy_Mobile?node-id=0%3A1">Layout Figma</a>
 ![proffy4](https://user-images.githubusercontent.com/59376552/89357964-610f7f00-d698-11ea-9338-e7cd8e4725b3.png)
+<a href="https://www.figma.com/file/bjlPK1ihBfkYaFMjENPFuH/Proffy_Mobile?node-id=0%3A1">Layout Figma</a>
 
 
 ### :computer: Tecnologias
