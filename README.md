@@ -15,15 +15,15 @@
 </p>
 
 ## Web
-
+<a href="https://www.figma.com/file/1KM1eImj3ql1Avv41iRCX1/Proffy_Web">Layout Figma</a>
 ![proffy](https://user-images.githubusercontent.com/59376552/89357961-5fde5200-d698-11ea-987e-eded0d093ca5.png)
-![proffy2](https://user-images.githubusercontent.com/59376552/89357962-6076e880-d698-11ea-8331-dbf74535b1d6.png)
-![proffy3](https://user-images.githubusercontent.com/59376552/89357963-610f7f00-d698-11ea-9cf7-28e27b82fe2d.png)
+
 
 
 ## Mobile
+<a href="https://www.figma.com/file/bjlPK1ihBfkYaFMjENPFuH/Proffy_Mobile?node-id=0%3A1">Layout Figma</a>
 ![proffy4](https://user-images.githubusercontent.com/59376552/89357964-610f7f00-d698-11ea-9338-e7cd8e4725b3.png)
-![proffy5](https://user-images.githubusercontent.com/59376552/89357965-61a81580-d698-11ea-9c72-c46e10fdf696.png)
+
 
 ### :computer: Tecnologias
 Tecnologias usadas no projeto:
