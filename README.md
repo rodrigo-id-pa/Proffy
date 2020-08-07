@@ -15,14 +15,14 @@
 ### Web 💻
 ![2](https://user-images.githubusercontent.com/59376552/89473182-a4312700-d758-11ea-972b-d17774ab0cd9.png)
 ![5](https://user-images.githubusercontent.com/59376552/89473179-a2fffa00-d758-11ea-8648-b5057753b64c.png)<br>
-<a href="https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web">Layout Figma</a>
+<a href="https://www.figma.com/file/PoZEPv2NVPmR4I1HXbZf9s/Proffy-Web-2.0"><img title="Figma Web" alt="Figma Web" src="https://img.shields.io/crates/d/fig?style=plastic"></a>
 <br>
 <br>
 <br>
   
 ### Mobile 📱 
 ![Screenshot_1](https://user-images.githubusercontent.com/59376552/89472875-d55d2780-d757-11ea-9dba-d5e69f6105f5.png)<br>
-<a href="https://www.figma.com/file/bjlPK1ihBfkYaFMjENPFuH/Proffy_Mobile?node-id=0%3A1">Layout Figma</a>
+<a href="https://www.figma.com/file/JCQnzvUKAY6gev7JSxCI17/Proffy-Mobile-2.0"><img title="Figma Mobile" alt="Figma Mobile" src="https://img.shields.io/crates/d/fig?style=plastic"></a>
 
 
 <br>
